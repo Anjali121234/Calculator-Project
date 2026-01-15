@@ -71,6 +71,11 @@ A modern **Scientific Calculator** built using **HTML, CSS, and JavaScript**, su
 
 ---
 
+## 🔗 Live Demo
+👉 https://anjali121234.github.io/Calculator-Project/
+
+---
+
 ## 👩‍💻 Author
 
 **Anjali**  
